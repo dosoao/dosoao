@@ -1,5 +1,4 @@
 ### Hi there 👋.
-I'm working as Cyber Security Analyst. So I think I would not use git anymore....😢
 <!--
 **dosoao/dosoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
